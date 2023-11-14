@@ -1,0 +1,17 @@
+.red-button {
+    -fx-background-color: #cf2424;
+		-fx-text-fill: white;
+}
+
+.red-button:hover {
+    -fx-background-color: #9c1a1a;
+}
+
+.yellow-button {
+    -fx-background-color: #cfae29;
+		-fx-text-fill: white;
+}
+
+.yellow-button:hover {
+    -fx-background-color: #9c831f;
+}
